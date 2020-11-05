@@ -18,7 +18,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 ___
 <a id=section2></a>
 ### [Breast Cancer Diagnosis](./BreastCancerDiagnosis)
-![image.jpg](image/fraud.jpg)<br><br>
+(image/fraud.jpg)<br><br>
 - Credit card fraud is a wide-ranging term for __theft__ and __fraud committed__ using or involving a payment card, such aas credit or debit card, as  __fraudulent source__ of funds in a transaction. 
 - The purpose may be to obtain goods without paying, or to obtain __unautorized funds from an account__.
 - Credit card fraud is also and adjunt to __identity__ theft.
@@ -28,7 +28,7 @@ ___
 ___
 <a id=section2></a>
 ### [Letter Recognition](./LetterRecognition)
-![image.jpg](image/fraud.jpg)<br><br>
+![](https://github.com/urvipasad/Machine-Learning-and-Recommedation-System-Projects/blob/master/Letter%20Recognition/Letter%20Recognition.png)<br><br>
 - Credit card fraud is a wide-ranging term for __theft__ and __fraud committed__ using or involving a payment card, such aas credit or debit card, as  __fraudulent source__ of funds in a transaction. 
 - The purpose may be to obtain goods without paying, or to obtain __unautorized funds from an account__.
 - Credit card fraud is also and adjunt to __identity__ theft.
