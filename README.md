@@ -10,7 +10,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 
 <a id=section1></a>
 ### [Auto Insurance Claim Fraud Detection](./Auto Insurance Claim Detection)
-![Auto-Insurance-1.jpg](Auto Insurance Claim Detection/Auto-Insurance-1.jpg)<br><br>
+![Auto-Insurance-1.jpg](https://github.com/urvipasad/Machine-Learning-and-Recommedation-System-Projects/blob/master/Auto%20Insurance%20Claim%20Detection/Auto%20Insurance%20Fraud.jpg)
 - A churn with respect to the Telecom industry, is defined as the percentage of __subscribers moving__ from a specific service to a service provider to another in a period of time.
 - Research shows that the companies have an __avergae churn of 1.9 to 2 percent__ month on month and annualized churn ranging from 10 to 60 percent.
 - An effort to build a model which helps in reducing the churn rate for a telecom company.
