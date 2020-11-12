@@ -19,10 +19,8 @@ ___
 <a id=section2></a>
 ### [Breast Cancer Diagnosis](./BreastCancerDiagnosis)
 (image/fraud.jpg)<br><br>
-- Credit card fraud is a wide-ranging term for __theft__ and __fraud committed__ using or involving a payment card, such aas credit or debit card, as  __fraudulent source__ of funds in a transaction. 
-- The purpose may be to obtain goods without paying, or to obtain __unautorized funds from an account__.
-- Credit card fraud is also and adjunt to __identity__ theft.
-- Building a robust model so that credit card companies are able to recognize the fraudulent card transactions so that customets are not charged for items that they did not purchase.
+- Breast cancer is a prevalent cause of death, and it is the only type of cancer that is widespread among women worldwide. Many imaging techniques have been developed for early detection and treatment of breast cancer and to reduce the number of deaths and many aided breast cancer diagnosis methods have been used to increase the diagnostic accuracy 
+- There have been several empirical studies addressing breast cancer using machine learning and soft computing techniques. Many claim that their algorithms are faster, easier, or more accurate than others are. This study is based on genetic programming and machine learning algorithms that aim to construct a system to accurately differentiate between benign and malignant breast tumors. The aim of this study was to optimize the learning algorithm. In this context, we applied the genetic programming technique to select the best features and perfect parameter values of the machine learning classifiers. The performance of the proposed method was based on sensitivity, specificity, precision, accuracy, and the roc curves. The present study proves that genetic programming can automatically find the best model by combining feature preprocessing methods and classifier algorithms
 - [Link for the Jupyter notebook](https://github.com/urvipasad/Machine-Learning-and-Recommedation-System-Projects/blob/master/Breast%20Cancer%20Diagnosis/Breast%20Cancer%20Diagnosis.ipynb)
 
 ___
